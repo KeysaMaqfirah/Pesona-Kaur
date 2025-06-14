@@ -1,6 +1,3 @@
-# 🌊 Pesona Kaur - Permata Tersembunyi Bengkulu
-
-<div align="center">
 
 # 🌊 Pesona Kaur - Permata Tersembunyi Bengkulu
 
@@ -130,9 +127,7 @@
         ╚══════════════════════════════════════════════╝
 ```
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeysaMaqfirah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
+
 
 ### 🎯 Teknologi Pilihan
 - **HTML5** `semantic-markup` `accessibility-first` `seo-optimized`
