@@ -137,40 +137,6 @@
 
 ---
 
-## 📂 Eksplorasi Struktur Proyek
-
-```
-🏝️ Pesona-Kaur/
-│
-├── 🎨 Asset/
-│   ├── gambar/              # 📸 Visual Gallery
-│   │   ├── hero/           # 🌅 Hero Images
-│   │   ├── destinations/   # 🏖️ Tourist Spots
-│   │   └── culture/        # 🎭 Cultural Assets
-│   └── icons/              # 🎯 UI Icons
-│
-├── 📄 index.html           # 🏠 Homepage Portal
-├── 🎨 style.css           # ✨ Visual Magic
-├── ⚡ script.js           # 🚀 Interactive Engine
-└── 📚 README.md           # 📖 Project Story
-```
-
----
-
-## 🚀 Quick Start Guide
-
-### 🔥 Launch dalam 3 Langkah!
-
-```bash
-# 1️⃣ Clone the magic
-git clone https://github.com/[username]/Pesona-Kaur.git
-
-# 2️⃣ Enter the realm  
-cd Pesona-Kaur
-
-# 3️⃣ Experience the wonder
-# Buka index.html di browser favorit Anda! 🌟
-```
 
 ### 🎯 Pro Tips untuk Development
 
