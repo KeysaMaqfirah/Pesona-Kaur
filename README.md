@@ -6,7 +6,7 @@
 ![Pesona Kaur Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Pesona%20Kaur&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Jelajahi%20Keindahan%20Tak%20Terbatas%20Kabupaten%20Kaur&descAlignY=55&descSize=18)
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/ocean.png" alt="Ocean" />
+
   <img src="https://img.icons8.com/color/48/000000/mountain.png" alt="Mountain" />
   <img src="https://img.icons8.com/color/48/000000/palm-tree.png" alt="Palm Tree" />
   <img src="https://img.icons8.com/color/48/000000/sunset.png" alt="Sunset" />
